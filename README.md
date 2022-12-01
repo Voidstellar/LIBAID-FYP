@@ -1,4 +1,4 @@
-# library_application
+# LIBAID: A LIBRARY MOBILE APPLICATION
 
 A new Flutter project.
 
